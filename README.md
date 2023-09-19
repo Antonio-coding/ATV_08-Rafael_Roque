@@ -1,0 +1,2 @@
+# ATV_08-Rafael_Roque
+ Um Quadrado Mágico é uma matriz quadrada de ordem n x n, onde n representa tanto o número de linhas quanto de colunas. A característica distintiva de um Quadrado Mágico é que ele é composto por números naturais, começando em 1 e indo até n^2, e estes números são organizados de tal forma que a soma dos elementos em cada linha, cada coluna e as duas diagonais principais é sempre a mesma.
